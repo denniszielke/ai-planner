@@ -1,0 +1,10 @@
+openai
+langchain
+langchain-openai
+tiktoken
+python-dotenv
+langchain-community
+langsmith
+pandas
+langchain_experimental
+langgraph
